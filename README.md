@@ -8,9 +8,9 @@
 
 ## Features
 
-- 📸 **Snap & Learn**: Point your camera at any object, and our AI turns it into a fun, interactive quiz that deepens your knowledge.
-- 🎮 **Learn Your Way**: No more boring study sessions! Play games, take quizzes, and level up while learning about what interests you.
-- 🌟 **Share & Connect**: Join a community of curious minds. Share discoveries, collaborate on projects, and make learning social.
+- **Snap & Learn**: Point your camera at any object, and our AI turns it into a fun, interactive quiz that deepens your knowledge.
+- **Learn Your Way**: No more boring study sessions! Play games, take quizzes, and level up while learning about what interests you.
+- **Share & Connect**: Join a community of curious minds. Share discoveries, collaborate on projects, and make learning social.
 
 ---
 
